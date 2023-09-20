@@ -1,0 +1,15 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\PracticeProjects\SchoolManagement\Schools\Schools\bin\Debug\Schools.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\PracticeProjects\SchoolManagement\Schools\Schools\bin\Debug\Schools.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\PracticeProjects\SchoolManagement\Schools\Schools\obj\Debug\Schools.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\PracticeProjects\SchoolManagement\Schools\Schools\obj\Debug\Schools.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\PracticeProjects\SchoolManagement\Schools\Schools\obj\Debug\Schools.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\PracticeProjects\SchoolManagement\Schools\Schools\obj\Debug\Schools.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\PracticeProjects\SchoolManagement\Schools\Schools\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\PracticeProjects\SchoolManagement\Schools\Schools\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\PracticeProjects\SchoolManagement\Schools\Schools\bin\Debug\nunit.engine.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\PracticeProjects\SchoolManagement\Schools\Schools\bin\Debug\nunit.engine.api.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\PracticeProjects\SchoolManagement\Schools\Schools\bin\Debug\nunit.engine.core.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\PracticeProjects\SchoolManagement\Schools\Schools\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\PracticeProjects\SchoolManagement\Schools\Schools\bin\Debug\nunit.framework.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\PracticeProjects\SchoolManagement\Schools\Schools\bin\Debug\nunit.framework.xml
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\PracticeProjects\SchoolManagement\Schools\Schools\obj\Debug\Schools.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g4bG7+LS50vG8aRSIN5WVu8Jgs2MNL7T6CeIaDisE5fQNvlt99O9Cr1unoTwZp5te9Hxp1h6jpARHb60dPviKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Keerthana\\OneDrive\\Desktop\\job\\Phase4\\PracticeProjects\\Section7\\FirstBank\\FirstBank\\FirstBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Keerthana\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
