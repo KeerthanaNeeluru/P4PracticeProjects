@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainBowSchool", "RainBowSchool\RainBowSchool.csproj", "{C67AA9EE-4DB3-4398-9A16-DB20876D5476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67AA9EE-4DB3-4398-9A16-DB20876D5476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67AA9EE-4DB3-4398-9A16-DB20876D5476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67AA9EE-4DB3-4398-9A16-DB20876D5476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67AA9EE-4DB3-4398-9A16-DB20876D5476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCD3661E-7F83-429F-AD63-FF5DE9BBCC77}
+	EndGlobalSection
+EndGlobal
